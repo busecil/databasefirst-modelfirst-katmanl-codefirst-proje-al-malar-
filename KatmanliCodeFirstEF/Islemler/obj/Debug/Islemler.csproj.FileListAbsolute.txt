@@ -1,0 +1,64 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CopyComplete
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.csproj.Up2Date
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\Islemler\obj\Debug\Islemler.pdb

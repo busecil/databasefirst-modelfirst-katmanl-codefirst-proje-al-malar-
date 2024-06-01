@@ -1,0 +1,6 @@
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\Varliklar\obj\Debug\Varliklar.pdb

@@ -1,0 +1,30 @@
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\databasefirst.exe.config
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\databasefirst.exe
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\databasefirst.pdb
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.Form1.resources
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\database.F8601B03.Up2Date
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.exe
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.pdb
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\databasefirst.exe.config
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\databasefirst.exe
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\databasefirst.pdb
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.Form1.resources
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\database.F8601B03.Up2Date
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.exe
+C:\Users\MSİ\Desktop\16221625009 BUSE  GÖRSELPROG2\databasefirst\databasefirst\obj\Debug\databasefirst.pdb

@@ -1,0 +1,18 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\Varliklar\obj\Debug\Varliklar.pdb

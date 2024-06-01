@@ -1,0 +1,32 @@
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\ModelFirstEf.exe.config
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\ModelFirstEf.exe
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\ModelFirstEf.pdb
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.Form1.resources
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFir.6BD18361.Up2Date
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.exe
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.pdb
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.KategoriYönetim.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\ModelFirstEf.exe.config
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\ModelFirstEf.exe
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\ModelFirstEf.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.Form1.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.KategoriYönetim.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFir.6BD18361.Up2Date
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.exe
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf\ModelFirstEf\obj\Debug\ModelFirstEf.pdb

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VeriTabaniModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="VeriTabaniModelStoreContainer">
+    <EntitySet Name="Urunler" EntityType="VeriTabaniModel.Store.Urunler" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Kategoriler" EntityType="VeriTabaniModel.Store.Kategoriler" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="KategoriUrun" Association="VeriTabaniModel.Store.KategoriUrun">
+      <End Role="Kategori" EntitySet="Kategoriler" />
+      <End Role="Urun" EntitySet="Urunler" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Urunler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="urunAdi" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="birimFiyat" Type="decimal" Nullable="true" />
+    <Property Name="stokMiktar" Type="int" Nullable="true" />
+    <Property Name="Kategori_ID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kategoriAdi" Type="nvarchar" Nullable="false" MaxLength="500" />
+    <Property Name="aciklama" Type="nvarchar(max)" Nullable="true" />
+  </EntityType>
+  <Association Name="KategoriUrun">
+    <End Role="Kategori" Type="VeriTabaniModel.Store.Kategoriler" Multiplicity="1" />
+    <End Role="Urun" Type="VeriTabaniModel.Store.Urunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Urun">
+        <PropertyRef Name="Kategori_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

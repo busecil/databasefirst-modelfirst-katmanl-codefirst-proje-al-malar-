@@ -1,0 +1,72 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.derslerTablosuEkleme.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CopyComplete
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.ogrenciDersTablosuEkleme.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.ogrenciDersTablosuEkleme.resources
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.Migrations.ogrenciDersTablosuEkleme.resources
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBagl.9A778782.Up2Date
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\VeriBaglantisi\obj\Debug\VeriBaglantisi.pdb

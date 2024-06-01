@@ -1,0 +1,8 @@
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009 FATMA BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\ModelFirstEf1\ModelFirstEf1\obj\Debug\ModelFirstEf1.csproj.CoreCompileInputs.cache

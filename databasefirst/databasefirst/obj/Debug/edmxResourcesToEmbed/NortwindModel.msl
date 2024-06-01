@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NorthwindModelStoreContainer" CdmEntityContainer="NorthwindVarliklar">
+    <EntitySetMapping Name="Nakliyecis">
+      <EntityTypeMapping TypeName="NorthwindModel.Nakliyeci">
+        <MappingFragment StoreEntitySet="Nakliyeciler">
+          <ScalarProperty Name="NakliyeciID" ColumnName="NakliyeciID" />
+          <ScalarProperty Name="SirketAdi" ColumnName="SirketAdi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

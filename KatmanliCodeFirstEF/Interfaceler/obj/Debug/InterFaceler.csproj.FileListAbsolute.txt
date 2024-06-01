@@ -1,0 +1,36 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CopyComplete
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFac.41A07D21.Up2Date
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\InterFaceler\obj\Debug\InterFaceler.pdb

@@ -1,0 +1,30 @@
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\DatabaseFirstEf.exe.config
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\DatabaseFirstEf.exe
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\DatabaseFirstEf.pdb
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.dll
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.xml
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.AssemblyReference.cache
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.Form1.resources
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.Properties.Resources.resources
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.GenerateResource.cache
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.CoreCompileInputs.cache
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.CopyComplete
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.exe
+C:\görsel prog2\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.pdb
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\DatabaseFirstEf.exe.config
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\DatabaseFirstEf.exe
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\DatabaseFirstEf.pdb
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.Form1.resources
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.Properties.Resources.resources
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\Database.0D49118A.Up2Date
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.exe
+C:\Users\MSİ\Desktop\DatabaseFirstEf\DatabaseFirstEf\obj\Debug\DatabaseFirstEf.pdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VeriTabaniModelStoreContainer" CdmEntityContainer="VeriTabaniModelContainer">
+    <EntitySetMapping Name="Urunler">
+      <EntityTypeMapping TypeName="IsTypeOf(VeriTabaniModel.Urun)">
+        <MappingFragment StoreEntitySet="Urunler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="urunAdi" ColumnName="urunAdi" />
+          <ScalarProperty Name="birimFiyat" ColumnName="birimFiyat" />
+          <ScalarProperty Name="stokMiktar" ColumnName="stokMiktar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kategoriler">
+      <EntityTypeMapping TypeName="IsTypeOf(VeriTabaniModel.Kategori)">
+        <MappingFragment StoreEntitySet="Kategoriler">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="kategoriAdi" ColumnName="kategoriAdi" />
+          <ScalarProperty Name="aciklama" ColumnName="aciklama" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="KategoriUrun" TypeName="VeriTabaniModel.KategoriUrun" StoreEntitySet="Urunler">
+      <EndProperty Name="Kategori">
+        <ScalarProperty Name="ID" ColumnName="Kategori_ID" />
+      </EndProperty>
+      <EndProperty Name="Urun">
+        <ScalarProperty Name="ID" ColumnName="ID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

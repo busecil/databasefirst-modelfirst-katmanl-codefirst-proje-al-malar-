@@ -1,0 +1,102 @@
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form1.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Properties.Resources.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.GenerateResource.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\görsel prog\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form3.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.pdb
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.AssemblyReference.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form1.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form3.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Properties.Resources.resources
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.GenerateResource.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CoreCompileInputs.cache
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CopyComplete
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.exe
+C:\Users\BEYZAGÜL ADAKLI\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe.config
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.xml
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form1.resources
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form3.resources
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Properties.Resources.resources
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.GenerateResource.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CopyComplete
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.exe
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.pdb
+C:\Users\Esma\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.OgrenciDersFormu.resources
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe.config
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.exe
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\ArayuzUI.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Islemler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form1.resources
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Form3.resources
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.OgrenciDersFormu.resources
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.Properties.Resources.resources
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.csproj.Up2Date
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.exe
+C:\Users\MSİ\Desktop\KatmanliCodeFirstEF\ArayuzUI\obj\Debug\ArayuzUI.pdb

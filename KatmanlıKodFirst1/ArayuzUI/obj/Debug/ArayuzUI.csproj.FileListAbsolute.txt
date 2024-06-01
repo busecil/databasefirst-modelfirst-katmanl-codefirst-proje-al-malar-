@@ -1,0 +1,48 @@
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\ArayuzUI.exe.config
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\ArayuzUI.exe
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\ArayuzUI.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\islemler.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\islemler.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.Form1.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.Properties.Resources.resources
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.Up2Date
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.exe
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.pdb
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\16221625009  BUSE ÇİL GÖRSELPROG2\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\ArayuzUI.exe.config
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\ArayuzUI.exe
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\ArayuzUI.pdb
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.dll
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\islemler.dll
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\InterFaceler.dll
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\VeriBaglantisi.dll
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\islemler.pdb
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.xml
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\InterFaceler.pdb
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\VeriBaglantisi.pdb
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\bin\Debug\VeriBaglantisi.dll.config
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.Form1.resources
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.Properties.Resources.resources
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.csproj.Up2Date
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.exe
+C:\Users\MSİ\Desktop\KatmanlıKodFirst1\ArayuzUI\obj\Debug\ArayuzUI.pdb

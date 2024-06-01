@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|c:\\users\\ms\u0130\\desktop\\katmanlicodefirstef\\arayuzui\\ogrencidersformucs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\ogrencidersformucs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\ogrencidersformucs.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\ogrencidersformucs.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\ogrencidersformucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\ogrencidersformucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\veribaglantisi\\ogrencidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\ogrencidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\ogrencidersformucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\ogrencidersformucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\veribaglantisi\\ogrencidersdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\ogrencidersdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\veribaglantisi\\veritabanicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\veritabanicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5A0AD8-8106-4949-B8C7-1F63F8A6E0BD}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\varliklar\\ogrenciders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5A0AD8-8106-4949-B8C7-1F63F8A6E0BD}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\ogrenciders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5A0AD8-8106-4949-B8C7-1F63F8A6E0BD}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\varliklar\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5A0AD8-8106-4949-B8C7-1F63F8A6E0BD}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69609672-645D-4540-9989-27789494B69B}|Islemler\\Islemler.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\islemler\\ogrencidersislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69609672-645D-4540-9989-27789494B69B}|Islemler\\Islemler.csproj|solutionrelative:islemler\\ogrencidersislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5A0AD8-8106-4949-B8C7-1F63F8A6E0BD}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\varliklar\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5A0AD8-8106-4949-B8C7-1F63F8A6E0BD}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\veribaglantisi\\dersdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\dersdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69609672-645D-4540-9989-27789494B69B}|Islemler\\Islemler.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\islemler\\ogrenciislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69609672-645D-4540-9989-27789494B69B}|Islemler\\Islemler.csproj|solutionrelative:islemler\\ogrenciislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4369DF89-CEFC-447D-A673-237191E04888}|InterFaceler\\InterFaceler.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\interfaceler\\vtislemler\u0130i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4369DF89-CEFC-447D-A673-237191E04888}|InterFaceler\\InterFaceler.csproj|solutionrelative:interfaceler\\vtislemler\u0130i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\veribaglantisi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\veribaglantisi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6BB1EB49-1D25-4D15-B3DF-2BD9300292FB}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\arayuzui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F64322-56C3-47B0-BE14-14BD24CD9180}|ArayuzUI\\ArayuzUI.csproj|solutionrelative:arayuzui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciDersFormucs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.Designer.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\OgrenciDersFormucs.Designer.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.Designer.cs",
+              "RelativeToolTip": "ArayuzUI\\OgrenciDersFormucs.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:35:36.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciDersFormucs.resx",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.resx",
+              "RelativeDocumentMoniker": "ArayuzUI\\OgrenciDersFormucs.resx",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.resx",
+              "RelativeToolTip": "ArayuzUI\\OgrenciDersFormucs.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-31T18:35:36.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciDersFormucs.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\OgrenciDersFormucs.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.cs",
+              "RelativeToolTip": "ArayuzUI\\OgrenciDersFormucs.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:05:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgrenciDersFormucs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\OgrenciDersFormucs.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\OgrenciDersFormucs.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "ArayuzUI\\OgrenciDersFormucs.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:45:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OgrenciDersDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\OgrenciDersDAL.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\OgrenciDersDAL.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\OgrenciDersDAL.cs",
+              "RelativeToolTip": "VeriBaglantisi\\OgrenciDersDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:43:49.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrenciDers.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Varliklar\\OgrenciDers.cs",
+              "RelativeDocumentMoniker": "Varliklar\\OgrenciDers.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Varliklar\\OgrenciDers.cs",
+              "RelativeToolTip": "Varliklar\\OgrenciDers.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:36:15.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OgrenciDersIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Islemler\\OgrenciDersIslemleri.cs",
+              "RelativeDocumentMoniker": "Islemler\\OgrenciDersIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Islemler\\OgrenciDersIslemleri.cs",
+              "RelativeToolTip": "Islemler\\OgrenciDersIslemleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:36:11.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form3.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\Form3.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form3.cs",
+              "RelativeToolTip": "ArayuzUI\\Form3.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:27:25.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DersDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\DersDAL.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\DersDAL.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\DersDAL.cs",
+              "RelativeToolTip": "VeriBaglantisi\\DersDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:26:38.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form3.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\Form3.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ArayuzUI\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:19:59.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Varliklar\\Ders.cs",
+              "RelativeDocumentMoniker": "Varliklar\\Ders.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Varliklar\\Ders.cs",
+              "RelativeToolTip": "Varliklar\\Ders.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:17:52.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Program.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\Program.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Program.cs",
+              "RelativeToolTip": "ArayuzUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:57:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ArayuzUI\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:55:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\App.config",
+              "RelativeDocumentMoniker": "ArayuzUI\\App.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\App.config",
+              "RelativeToolTip": "ArayuzUI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T21:57:04.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\packages.config",
+              "RelativeDocumentMoniker": "ArayuzUI\\packages.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\packages.config",
+              "RelativeToolTip": "ArayuzUI\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T21:57:02.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\App.config",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\App.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\App.config",
+              "RelativeToolTip": "VeriBaglantisi\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T21:56:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\packages.config",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\packages.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\packages.config",
+              "RelativeToolTip": "VeriBaglantisi\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T21:56:43.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Varliklar\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Varliklar\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Varliklar\\Ogrenci.cs",
+              "RelativeToolTip": "Varliklar\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:33:09.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ArayuzUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\ArayuzUI\\Form1.cs",
+              "RelativeToolTip": "ArayuzUI\\Form1.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:01:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OgrenciIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Islemler\\OgrenciIslemleri.cs",
+              "RelativeDocumentMoniker": "Islemler\\OgrenciIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Islemler\\OgrenciIslemleri.cs",
+              "RelativeToolTip": "Islemler\\OgrenciIslemleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:01:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\OgrenciDAL.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\OgrenciDAL.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\OgrenciDAL.cs",
+              "RelativeToolTip": "VeriBaglantisi\\OgrenciDAL.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAnwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:01:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VeriTabaniContext.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\VeriTabaniContext.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\VeriTabaniContext.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\VeriBaglantisi\\VeriTabaniContext.cs",
+              "RelativeToolTip": "VeriBaglantisi\\VeriTabaniContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:01:30.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VtIslemler\u0130I.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Interfaceler\\VtIslemler\u0130I.cs",
+              "RelativeDocumentMoniker": "Interfaceler\\VtIslemler\u0130I.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\KatmanliCodeFirstEF\\Interfaceler\\VtIslemler\u0130I.cs",
+              "RelativeToolTip": "Interfaceler\\VtIslemler\u0130I.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:01:30.586Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

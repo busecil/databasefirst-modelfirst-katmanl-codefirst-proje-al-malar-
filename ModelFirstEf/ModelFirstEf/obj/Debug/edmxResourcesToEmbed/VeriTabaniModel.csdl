@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="VeriTabaniModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="VeriTabaniModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Urunler" EntityType="VeriTabaniModel.Urun" />
+    <EntitySet Name="Kategoriler" EntityType="VeriTabaniModel.Kategori" />
+    <AssociationSet Name="KategoriUrun" Association="VeriTabaniModel.KategoriUrun">
+      <End Role="Kategori" EntitySet="Kategoriler" />
+      <End Role="Urun" EntitySet="Urunler" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Urun">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="urunAdi" Type="String" Nullable="false" />
+    <Property Name="birimFiyat" Type="Decimal" Nullable="true" />
+    <Property Name="stokMiktar" Type="Int32" Nullable="true" />
+    <NavigationProperty Name="Kategori" Relationship="VeriTabaniModel.KategoriUrun" FromRole="Urun" ToRole="Kategori" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kategoriAdi" Type="String" MaxLength="500" Nullable="false" />
+    <Property Name="aciklama" Type="String" Nullable="false" />
+    <NavigationProperty Name="Urun" Relationship="VeriTabaniModel.KategoriUrun" FromRole="Kategori" ToRole="Urun" />
+  </EntityType>
+  <Association Name="KategoriUrun">
+    <End Type="VeriTabaniModel.Kategori" Role="Kategori" Multiplicity="1" />
+    <End Type="VeriTabaniModel.Urun" Role="Urun" Multiplicity="*" />
+  </Association>
+</Schema>
